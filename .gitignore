@@ -10,6 +10,7 @@ package-lock.json
 
 # dependencies
 /node_modules
+/near-marketplace/node_modules
 
 
 # production
